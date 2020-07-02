@@ -1,3 +1,3 @@
 # 1st-Game
-Ico, Ico2, Martin
+Icak, Ristu, Marto
 da
