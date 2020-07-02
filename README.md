@@ -1,3 +1,3 @@
 # 1st-Game
-Ico, Ico2, Martin
+Ico, Ristu, Martin
 da
